@@ -1,0 +1,115 @@
+Aniekan Amah
+
++1(438)-925-4460
+mhaniekan@yahoo.com,
+33 Creekside Blvd SW,
+Calgary, Alberta, T2X 4P3.
+
+Profile
+
+● Passion for Cyber Security, Programming, Data Engineering, Research and Resilient Systems
+● Experience in DevSecOps technologies for improved security tooling
+
+Summary of skills
+
+Technical
+
+Linux, Windows OS
+
+● System Administration and Support
+●
+● Docker, GCP, AWS
+● Network Security
+
+● Golang,Python, Shell, REST api
+● Ansible, Terraform, Demisto(xSOAR)
+● CISSP
+● Kafka
+
+Soft Skills
+
+● Quick Learner & thinker
+● Excellent team player
+
+● Great Communication skills
+● Excellent interpersonal skills
+
+Education
+Master of Engineering, Information Systems Security
+Concordia University, Montreal, Canada.
+Cloud computing security and privacy, Security methodologies and evaluation, Operating Systems
+Security, Database security and privacy and several others
+
+2017–2018
+
+Bachelor of Engineering, Computer Engineering (First class honors)
+Covenant University, Ota, Nigeria.
+Computer Security, Research Methodology, Project Management, to mention a few
+
+2014
+
+Work Experience
+
+Security Engineer, SOC Automation/DevSecOps
+Enbridge Inc, Canada
+
+June 2020 - present
+
+● Primary lead engineer for automating Tier1 SOC analysts operations utilizing Demisto/xSOAR
+
+and custom tooling developed in golang and python.
+
+● xSOAR playbook development and refactoring integration code to align with Enbridge specific
+
+use-cases and operating environment
+
+● DevSecOps tooling pipeline integration to ensure proactive security risk management
+
+Security Engineer, Tooling and Automation
+Morgan Stanley, Canada
+
+August 2018 - May 2020
+
+● Security infrastructure tooling, orchestration and automation utilizing Demisto/xSOAR,
+
+Terraform and Ansible.
+
+● Consult/Advisory with other development
+
+teams on security architecture, developed
+security-related automation and tooling, and advocate to ensure security is prioritized across
+Morgan Stanley’s infrastructure.
+
+● Designed and built solutions to complex security operational problems that leverage both open
+
+source projects and Morgan Stanley’s production infrastructure(cloud and on-prem)
+● DevSecOps tooling pipeline integration to ensure proactive security risk management
+● Web Application security testing and code review
+
+Cyber Security Analyst intern
+Innovation Center, D3 Labs, Concordia University
+
+May – August 2017
+
+● Built a two factor web authentication system for access management to shared computer
+terminals in an industrial plant which resulted in a fast and efficient user utilization of the shared
+terminals.
+
+Security Research and Development Engineer
+ipNX Nigeria Limited, Lagos, Nigeria
+
+Dec 2015– Dec 2016
+
+● Installed, configured and managed an Enterprise Backup Application (Bareos) for all systems and
+
+servers of the organization.
+
+● Configured and deployed electronic document and records management system for the
+
+organization.
+
+● Deployment and management of OpenStack open source cloud computing software for the
+
+organization.
+
+
